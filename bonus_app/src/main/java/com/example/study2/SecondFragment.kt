@@ -1,4 +1,4 @@
-package com.example.study2
+package com.example.bonus_app
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
