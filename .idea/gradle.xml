@@ -11,7 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/bonus_app" />
-            <option value="$PROJECT_DIR$/lab1_app" />
+            <option value="$PROJECT_DIR$/lab1" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />

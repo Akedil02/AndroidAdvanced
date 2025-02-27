@@ -2,10 +2,10 @@
 <project version="4">
   <component name="deploymentTargetSelector">
     <selectionStates>
-      <SelectionState runConfigName="lab1_app">
+      <SelectionState runConfigName="bonus_app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="bonus_app">
+      <SelectionState runConfigName="lab1">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>

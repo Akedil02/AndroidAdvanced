@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Study2"
 include(":bonus_app")
-include(":lab1_app")
+include(":lab1")
